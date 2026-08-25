@@ -1,0 +1,19 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos generados por ANTLR 4
+*.tokens
+*.interp
+LabeledExprLexer.java
+LabeledExprParser.java
+LabeledExprVisitor.java
+LabeledExprBaseVisitor.java
+LabeledExprListener.java
+LabeledExprBaseListener.java
+
+# Archivos de configuracion de IDE y SO
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
