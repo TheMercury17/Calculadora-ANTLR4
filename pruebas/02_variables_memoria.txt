@@ -1,0 +1,8 @@
+a = 10
+b = 20
+a + b
+a * b
+radio = 10
+area = pi * radio^2
+area
+z + 5

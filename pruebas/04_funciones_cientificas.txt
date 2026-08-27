@@ -1,0 +1,11 @@
+pi
+2 * pi
+e
+sin(pi/2)
+cos(0)
+tan(0)
+sqrt(25)
+log(100)
+ln(e)
+exp(1)
+abs(-42.5)

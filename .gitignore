@@ -4,6 +4,12 @@
 # Archivos generados por ANTLR 4
 *.tokens
 *.interp
+ScientificCalcLexer.java
+ScientificCalcParser.java
+ScientificCalcVisitor.java
+ScientificCalcBaseVisitor.java
+ScientificCalcListener.java
+ScientificCalcBaseListener.java
 LabeledExprLexer.java
 LabeledExprParser.java
 LabeledExprVisitor.java

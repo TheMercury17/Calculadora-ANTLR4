@@ -1,27 +1,36 @@
-2 + 2
-2 + 3 * 4
-(2 + 3) * 4
+2+2
+2+3*4
+(2+3)*4
+
 a = 10
 b = 20
-a + b
-a * b
+
+a+b
+a*b
+
 sqrt(25)
+
 2^8
+
 pi
-2 * pi
+2*pi
+
 sin(pi/2)
 cos(0)
+
 log(100)
 ln(e)
+
 radio = 10
 area = pi * radio^2
 area
+
 angulo = pi/4
 sin(angulo)
 cos(angulo)
+
 vars
-clear
-vars
+
 plot(x^2, -10, 10)
 plot(sin(x), -6.28, 6.28)
 plot(sin(x), cos(x), -6.28, 6.28)
