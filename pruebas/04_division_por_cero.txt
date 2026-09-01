@@ -1,4 +1,0 @@
-10 / 0
-denominador = 0
-100 / denominador
-z + 10
